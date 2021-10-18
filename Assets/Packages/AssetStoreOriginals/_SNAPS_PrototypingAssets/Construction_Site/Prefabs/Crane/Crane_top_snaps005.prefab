@@ -1,0 +1,2692 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &319987394681517671
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 319987394681517670}
+  m_Layer: 0
+  m_Name: Crane_top_snaps005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &319987394681517670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 319987394681517671}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6698919970632265930}
+  - {fileID: 9036444129458954809}
+  - {fileID: 8840776087368958996}
+  - {fileID: 7364333348226781930}
+  - {fileID: 1085418066701144528}
+  - {fileID: 2931154125442423886}
+  - {fileID: 2931154124818588660}
+  - {fileID: 2931154126015540113}
+  - {fileID: 8840776087535675596}
+  - {fileID: 6171839321096927678}
+  - {fileID: 6171839322320913821}
+  - {fileID: 6171839320817866871}
+  - {fileID: 3151934617349645235}
+  - {fileID: 809584766191170259}
+  - {fileID: 786470596105904482}
+  - {fileID: 5442788873156011013}
+  - {fileID: 9036570699036633122}
+  - {fileID: 5442788874307697547}
+  - {fileID: 786470597167923511}
+  - {fileID: 786470596757673163}
+  - {fileID: 5442788873449011060}
+  - {fileID: 5442788873618575485}
+  - {fileID: 786470597744936417}
+  - {fileID: 786470596366591280}
+  - {fileID: 5442788874558856880}
+  - {fileID: 5442788872855299686}
+  - {fileID: 786470597346370405}
+  - {fileID: 5442788872715933381}
+  - {fileID: 5442788874313455892}
+  - {fileID: 5442788873625820857}
+  - {fileID: 786470596277311147}
+  - {fileID: 5442788873967695363}
+  - {fileID: 5442788873219221812}
+  - {fileID: 5442788874571883222}
+  - {fileID: 5442788873895428465}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &767114326997917818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3663335
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.075535
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.9134407
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470597346370405 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114326997917818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327020963850
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.096741
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.14683
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12702104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9919
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.595
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873967695363 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327020963850}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327029300261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8629653786075759164, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.575
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59d8f6f757db2c940bdb361fded91687, type: 3}
+--- !u!4 &9036444129458954809 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327029300261}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327132251229
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 115245743961754286, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_Name
+      value: CranePulley_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c47b06e4b41caa4293aed4efca96d4a, type: 3}
+--- !u!4 &809584766191170259 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 115245743961331342, guid: 0c47b06e4b41caa4293aed4efca96d4a,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327132251229}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327210868600
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.9041824
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.543933
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.71609634
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.69800144
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -91.466
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873895428465 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327210868600}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327218499309
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 6846475575882427066, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneWeight_01a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.343
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.866
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5844d8844b15c824f8d37ab0c9b269ed, type: 3}
+--- !u!4 &6171839320817866871 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327218499309}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327406413566
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.3663335
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.075535
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.1875
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470597744936417 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327406413566}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327584643028
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.025467
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.73451
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.945072
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470596757673163 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327584643028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327613331110
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 6220049781436758604, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTop_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.0819
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.3731
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.1328
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d82a46424c8df334ebacd059ef3d428a, type: 3}
+--- !u!4 &6698919970632265930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6220049781437179500, guid: d82a46424c8df334ebacd059ef3d428a,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327613331110}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327621574841
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.388893
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.127153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.2115593
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788874558856880 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327621574841}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327632029469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.36703444
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.721855
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12702104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9919
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.595
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788874313455892 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327632029469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327637788034
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.7508616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.138119
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16815928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9857599
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.362001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788874307697547 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327637788034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327893630175
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.34375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12702104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9919
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.595
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788874571883222 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327893630175}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114327985979944
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.677269
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.001352
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16815928
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9857599
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.362001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470597167923511 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114327985979944}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328009510692
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 6846475575882427066, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneWeight_01a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.866
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5844d8844b15c824f8d37ab0c9b269ed, type: 3}
+--- !u!4 &6171839321096927678 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328009510692}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328049801327
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.377602
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.601339
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.5625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788872855299686 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328049801327}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328069002676
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.678322
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.953842
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12702104
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9919
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.595
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470596277311147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328069002676}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328106983389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8076618140023212009, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_02a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.123
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4148
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfe3b153c23824e4b9500bf6d2b8bdcf, type: 3}
+--- !u!4 &8840776087368958996 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328106983389}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328189364428
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.210625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.5709305
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16815928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9857599
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.362001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788872715933381 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328189364428}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328206488325
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8076618140023212009, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_02a_snaps005 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -21.123
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.538
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.8865
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfe3b153c23824e4b9500bf6d2b8bdcf, type: 3}
+--- !u!4 &8840776087535675596 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8076618140022791113, guid: cfe3b153c23824e4b9500bf6d2b8bdcf,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328206488325}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328250000943
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.025467
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.73451
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.1558685
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470596366591280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328250000943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328343018516
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 411370807038292452, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_04a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.953
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.826153
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4785004
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ee5f57b8588d73941b63de4242b9b52a, type: 3}
+--- !u!4 &1085418066701144528 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 411370807038324164, guid: ee5f57b8588d73941b63de4242b9b52a,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328343018516}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328352610828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.29213667
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.704926
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16815928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9857599
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.362001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873156011013 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328352610828}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328424208189
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.3645425
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.551398
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.67696506
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7360152
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -85.214005
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873219221812 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328424208189}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328600535319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 2384864632142470788, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneMotor_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.770903
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a45f376446585824e803356b9887b2ef, type: 3}
+--- !u!4 &3151934617349645235 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2384864632142103204, guid: a45f376446585824e803356b9887b2ef,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328600535319}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328646617469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.388893
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.127153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.8893814
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873449011060 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328646617469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328668271367
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 6846475575882427066, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneWeight_01a_snaps005 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.718
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.866
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5844d8844b15c824f8d37ab0c9b269ed, type: 3}
+--- !u!4 &6171839322320913821 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6846475575882397338, guid: 5844d8844b15c824f8d37ab0c9b269ed,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328668271367}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114328850361716
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 7824450488566653886, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_03a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.749
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.303501
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f6aa98ef9c82f124980dc897381e2a0a, type: 3}
+--- !u!4 &7364333348226781930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7824450488566431646, guid: f6aa98ef9c82f124980dc897381e2a0a,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114328850361716}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114329045787261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 22320901681569599, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_02a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.41543627
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.953568
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.16815928
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9857599
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.362001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8258eae061e045642ae190363d204558, type: 3}
+--- !u!4 &786470596105904482 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 22320901681595167, guid: 8258eae061e045642ae190363d204558,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114329045787261}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114329073896722
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8632572857169246480, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_Name
+      value: CranePulley_02a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb244535d8c5fbc4ab77ad9f86ce45c8, type: 3}
+--- !u!4 &9036570699036633122 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8632572857169732912, guid: fb244535d8c5fbc4ab77ad9f86ce45c8,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114329073896722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114329081491060
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.377602
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.601339
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.5384407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.011865297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.041974314
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.27176163
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9613756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.569002
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873618575485 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114329081491060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &767114329090826416
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 4696689048838726185, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneCable_01a_snaps005 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.940536
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.53098
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.12702104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9919
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 14.595
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69bfaa972c1ec29449b4354d77877db7, type: 3}
+--- !u!4 &5442788873625820857 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4696689048838241801, guid: 69bfaa972c1ec29449b4354d77877db7,
+    type: 3}
+  m_PrefabInstance: {fileID: 767114329090826416}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6876782501140545000
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8629653786075759164, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.575
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59d8f6f757db2c940bdb361fded91687, type: 3}
+--- !u!4 &2931154124818588660 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+    type: 3}
+  m_PrefabInstance: {fileID: 6876782501140545000}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6876782501798052434
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8629653786075759164, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.575
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59d8f6f757db2c940bdb361fded91687, type: 3}
+--- !u!4 &2931154125442423886 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+    type: 3}
+  m_PrefabInstance: {fileID: 6876782501798052434}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6876782502358463885
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 319987394681517670}
+    m_Modifications:
+    - target: {fileID: 8629653786075759164, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_Name
+      value: CraneTopFrame_01a_snaps005
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.575
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59d8f6f757db2c940bdb361fded91687, type: 3}
+--- !u!4 &2931154126015540113 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8629653786075405852, guid: 59d8f6f757db2c940bdb361fded91687,
+    type: 3}
+  m_PrefabInstance: {fileID: 6876782502358463885}
+  m_PrefabAsset: {fileID: 0}

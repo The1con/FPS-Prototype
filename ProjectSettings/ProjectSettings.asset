@@ -589,7 +589,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: GRIFFIN;TEXTURE_GRAPH;POSEIDON;POSEIDON_URP;JUPITER;GRIFFIN_2021;TG_SEARCHER
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
