@@ -1,0 +1,39 @@
+3.1.0
+	- Updated for Fish-Networking 3.10.0.
+
+3.0.3
+	- Updated for Fish-Networking 3.4.3.
+
+3.0.2
+	- Fixed physics being set to Unity instead of TimeManager.
+
+3.0.1
+	- Fixed using IsOwner within OnStartNetwork.
+
+3.0.0
+	- Updated for Fish-Networking 3.1.1.
+
+1.0.5
+	- Fixed first person weapon animation not updating on respawn for host while dying with assault rifle equipped.
+	- Fixed WeaponIndex is invalid error when a player joined while another was dead.
+
+1.0.4
+	- Fixed reloading not working on client only when server was run as host.
+	- Fixed animations showing twice on clientHost.
+	- Fixed clientHost weapon changes not showing for other clients.
+
+1.0.3
+	- Fixed bullet counts not updating on clients after a reload.
+
+1.0.2
+	- Improved respawn canvas appearance.
+	- Fixed Server or Client button sometimes defaulting to active button after pressing respawn.
+
+1.0.1
+	- Fixed wrong base call in WeaponHandler.OnStartServer.
+	- Changed assault rifle recoil to be less violent.
+	- Fixed NetworkManager in scene now has localhost for default server IP.
+	- Fixed removed a debug print when throwing a grenade.
+
+1.0.0
+	- Initial release!	
