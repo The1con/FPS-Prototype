@@ -815,7 +815,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: GRIFFIN;TEXTURE_GRAPH;POSEIDON;POSEIDON_URP;JUPITER;GRIFFIN_2021;TG_SEARCHER
+    Standalone: GRIFFIN;TEXTURE_GRAPH;POSEIDON;POSEIDON_URP;JUPITER;GRIFFIN_2021;TG_SEARCHER;FISHNET;FISHNET_V3;FISHNET_PRO
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
