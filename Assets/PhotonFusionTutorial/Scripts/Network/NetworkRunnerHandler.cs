@@ -1,11 +1,10 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Fusion;
 using Fusion.Sockets;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class NetworkRunnerHandler : MonoBehaviour
 {
@@ -17,6 +16,9 @@ public class NetworkRunnerHandler : MonoBehaviour
     {
         networkRunner = Instantiate(networkRunnerPrefab);
         networkRunner.name = "NetworkRunner";
+        
+        var clientTask = InitializeNetworkRunner(networkRunner, GameMode.AutoHostOrClient, NetAddress.Any(), SceneManager.GetActiveScene().buildIndex, _ => { Debug.Log("Client initialized"); });
+        Debug.Log("Client Initialization started");
     }
     
     protected virtual Task InitializeNetworkRunner(NetworkRunner runner, GameMode gameMode, NetAddress address, SceneRef scene, Action<NetworkRunner> onInitialized)
@@ -28,13 +30,13 @@ public class NetworkRunnerHandler : MonoBehaviour
         
         runner.ProvideInput = true;
         
-        return runner.StartGame(new StartGameArgs()
+        return runner.StartGame(new StartGameArgs
         {
             GameMode = gameMode,
             Address = address,
             Scene = scene,
             SessionName = "TestRoom",
-            OnGameStarted = onInitialized,
+            Initialized = onInitialized,
             SceneManager = sceneManager
         });
     }
