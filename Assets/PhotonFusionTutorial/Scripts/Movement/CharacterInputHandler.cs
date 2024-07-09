@@ -1,11 +1,11 @@
-using System;
+using PhotonFusionTutorial.Scripts.Camera;
 using PhotonFusionTutorial.Scripts.Network;
 using UnityEngine;
 namespace PhotonFusionTutorial.Scripts.Movement
 {
     public class CharacterInputHandler : MonoBehaviour
     {
-        [SerializeField] private CharacterMovementHandler characterMovementHandler;
+        [SerializeField] private LocalCameraHandler localCameraHandler;
         
         private Vector2 viewInputVector = Vector2.zero;
         private Vector2 moveInputVector = Vector2.zero;
@@ -22,21 +22,24 @@ namespace PhotonFusionTutorial.Scripts.Movement
             viewInputVector.x = Input.GetAxis("Mouse X");
             viewInputVector.y = Input.GetAxis("Mouse Y") * -1;
             
-            characterMovementHandler.SetViewInput(viewInputVector);
-            
             moveInputVector.x = Input.GetAxis("Horizontal");
             moveInputVector.y = Input.GetAxis("Vertical");
 
-            isJumpPressed = Input.GetButtonDown("Jump");
+            if (Input.GetButtonDown("Jump"))
+                isJumpPressed = true;
+            
+            localCameraHandler.SetViewInput(viewInputVector);
         }
 
         public NetworkInputData GetNetworkInput()
         {
+            var temp = isJumpPressed;
+            isJumpPressed = false;
             return new NetworkInputData
             {
                 movementInput = moveInputVector,
-                rotationInput = viewInputVector.x,
-                isJumpPressed = isJumpPressed
+                aimForwardVector = localCameraHandler.transform.forward,
+                isJumpPressed = temp
             };
         }
     }
