@@ -7,5 +7,6 @@ namespace PhotonFusionTutorial.Scripts.Network
         public Vector2 movementInput;
         public Vector3 aimForwardVector;
         public NetworkBool isJumpPressed;
+        public NetworkBool isFirePressed;
     }
 }
